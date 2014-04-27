@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 1.0;
-		requiredAddons[] = {};
+		requiredAddons[] = {"A3_UI_F"};
 		author[] = {"[TF]Nkey"};
 		authorUrl = "https://github.com/michail-nikolaev/wog-addon";
 		version = 0.0.1;
